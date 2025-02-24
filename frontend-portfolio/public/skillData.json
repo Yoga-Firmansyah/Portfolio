@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "VS Code",
+    "description": null,
+    "icon": "/skills/TUU9mEfTnHpajgaHxPygKtGIyekYiyHHo0BJyatI.svg",
+    "created_at": "2025-02-21T04:54:59.000000Z",
+    "updated_at": "2025-02-21T04:54:59.000000Z"
+  },
+  {
+    "id": 2,
+    "name": "HTML",
+    "description": null,
+    "icon": "/skills/D55Px1ySu20CVPtu6zd81fStH23c6469wdw6C8tU.png",
+    "created_at": "2025-02-21T04:09:02.000000Z",
+    "updated_at": "2025-02-21T04:09:02.000000Z"
+  },
+  {
+    "id": 3,
+    "name": "CSS",
+    "description": null,
+    "icon": "/skills/y6x0Xti9I6lM5Lzo9IAkdD2KGv9IteSk2rli8UIT.png",
+    "created_at": "2025-02-21T04:17:48.000000Z",
+    "updated_at": "2025-02-21T04:17:48.000000Z"
+  },
+  {
+    "id": 4,
+    "name": "PHP",
+    "description": null,
+    "icon": "/skills/LHQcBwUgfr4Q75RqpBYcXO7Byuc8RKWPb6DUpDNY.svg",
+    "created_at": "2025-02-21T04:26:15.000000Z",
+    "updated_at": "2025-02-21T04:38:54.000000Z"
+  },
+  {
+    "id": 5,
+    "name": "JavaScript",
+    "description": null,
+    "icon": "/skills/JTWuvLpXheFPgJIdwMp0IL7XOVRNxKJklIWiq0mG.png",
+    "created_at": "2025-02-21T04:44:30.000000Z",
+    "updated_at": "2025-02-21T04:44:30.000000Z"
+  },
+  {
+    "id": 6,
+    "name": "MySQL",
+    "description": null,
+    "icon": "/skills/v3W2lZREv16ic4NwuranQRhgRrVjszchCT1fo5Lv.png",
+    "created_at": "2025-02-21T04:45:19.000000Z",
+    "updated_at": "2025-02-21T04:45:19.000000Z"
+  },
+  {
+    "id": 7,
+    "name": "Laravel",
+    "description": null,
+    "icon": "/skills/gvNDLUUenfLPvkT5TxwB4SKm7vQyeKVq7jSUoPYW.svg",
+    "created_at": "2025-02-21T04:47:56.000000Z",
+    "updated_at": "2025-02-21T04:47:56.000000Z"
+  },
+  {
+    "id": 8,
+    "name": "Vue",
+    "description": null,
+    "icon": "/skills/ZCHxQWrgsKZuQi7fgKuVMh1BOT9mJrR8nePN0ubg.svg",
+    "created_at": "2025-02-21T04:48:52.000000Z",
+    "updated_at": "2025-02-21T04:48:52.000000Z"
+  },
+  {
+    "id": 9,
+    "name": "React",
+    "description": null,
+    "icon": "/skills/0Jdo9hTkK2Lke4xh9MMyHN9ejplhAldIbQIo9YD7.png",
+    "created_at": "2025-02-21T07:07:03.000000Z",
+    "updated_at": "2025-02-21T07:07:03.000000Z"
+  },
+  {
+    "id": 10,
+    "name": "Bootstrap",
+    "description": null,
+    "icon": "/skills/r94hixaMWfMsL5TovjqpyCecurgnbifxEseDIJ81.png",
+    "created_at": "2025-02-21T04:49:37.000000Z",
+    "updated_at": "2025-02-21T04:49:37.000000Z"
+  },
+  {
+    "id": 11,
+    "name": "Tailwind CSS",
+    "description": null,
+    "icon": "/skills/VNTOFTesiEYmpUIET02lmtWwCDuPgWXRbyiOZq4j.svg",
+    "created_at": "2025-02-21T04:49:59.000000Z",
+    "updated_at": "2025-02-21T04:49:59.000000Z"
+  },
+  {
+    "id": 12,
+    "name": "WordPress",
+    "description": null,
+    "icon": "/skills/RzCPqLtX7smzIz56Ct8yf3R4C8IfWVIobjZpoeo8.png",
+    "created_at": "2025-02-21T07:07:43.000000Z",
+    "updated_at": "2025-02-21T07:07:43.000000Z"
+  },
+  {
+    "id": 14,
+    "name": "Midtrans",
+    "description": null,
+    "icon": "/skills/HlxbjwklLsqFSKO9Ka44HIBXOdRfnlq6ubIU318m.svg",
+    "created_at": "2025-02-24T15:43:09.000000Z",
+    "updated_at": "2025-02-24T15:43:09.000000Z"
+  }
+]

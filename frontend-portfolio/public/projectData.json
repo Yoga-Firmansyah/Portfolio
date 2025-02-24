@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "name": "Donation Website",
+    "slug": "donation-website",
+    "description": "This project was created for the final project of the WordPress CMS bootcamp. The project features campaign management and payment gateway integration",
+    "image": "/projects/tbIRkKA0TbfhhDdwXOuZMUvgKVxk6weomi68PAki.png",
+    "git_link": "https://gitlab.com/firmany41/donation-website",
+    "live_link": "#",
+    "created_at": "2025-02-21T09:03:44.000000Z",
+    "updated_at": "2025-02-21T10:14:23.000000Z",
+    "skills": [
+      {
+        "id": 12,
+        "name": "WordPress",
+        "description": null,
+        "icon": "/skills/RzCPqLtX7smzIz56Ct8yf3R4C8IfWVIobjZpoeo8.png",
+        "created_at": "2025-02-21T07:07:43.000000Z",
+        "updated_at": "2025-02-21T07:07:43.000000Z",
+        "pivot": {
+          "project_id": 1,
+          "skill_id": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "E-Commerce React",
+    "slug": "e-commerce-react",
+    "description": "This project was created for the final project of the ReactJS bootcamp. The project features an e-commerce interface with data CRUD operations integrated with API.",
+    "image": "/projects/JPSq8GC5uFvcbDtq9pyfuaMplPIjI1TyjCzYbeKa.png",
+    "git_link": "https://gitlab.com/firmany41/final-project-reactjs-sanbercode",
+    "live_link": "#",
+    "created_at": "2025-02-21T09:51:59.000000Z",
+    "updated_at": "2025-02-21T10:15:06.000000Z",
+    "skills": [
+      {
+        "id": 9,
+        "name": "React",
+        "description": null,
+        "icon": "/skills/0Jdo9hTkK2Lke4xh9MMyHN9ejplhAldIbQIo9YD7.png",
+        "created_at": "2025-02-21T07:07:03.000000Z",
+        "updated_at": "2025-02-21T07:07:03.000000Z",
+        "pivot": {
+          "project_id": 2,
+          "skill_id": 9
+        }
+      },
+      {
+        "id": 11,
+        "name": "Tailwind CSS",
+        "description": null,
+        "icon": "/skills/VNTOFTesiEYmpUIET02lmtWwCDuPgWXRbyiOZq4j.svg",
+        "created_at": "2025-02-21T04:49:59.000000Z",
+        "updated_at": "2025-02-21T04:49:59.000000Z",
+        "pivot": {
+          "project_id": 2,
+          "skill_id": 11
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Library App",
+    "slug": "library-app",
+    "description": "An application designed to efficiently manage library. This application includes all the essential features of a standard library management system, such as book inventory, member management, and book transaction tracking.",
+    "image": "/projects/vZguYl7pri2l7tDWDDvOn32m1d9k6dfQWaONSKXm.png",
+    "git_link": "https://github.com/Yoga-Firmansyah/Library",
+    "live_link": "#",
+    "created_at": "2025-02-24T15:08:42.000000Z",
+    "updated_at": "2025-02-24T15:08:42.000000Z",
+    "skills": [
+      {
+        "id": 7,
+        "name": "Laravel",
+        "description": null,
+        "icon": "/skills/gvNDLUUenfLPvkT5TxwB4SKm7vQyeKVq7jSUoPYW.svg",
+        "created_at": "2025-02-21T04:47:56.000000Z",
+        "updated_at": "2025-02-21T04:47:56.000000Z",
+        "pivot": {
+          "project_id": 3,
+          "skill_id": 7
+        }
+      },
+      {
+        "id": 6,
+        "name": "MySQL",
+        "description": null,
+        "icon": "/skills/v3W2lZREv16ic4NwuranQRhgRrVjszchCT1fo5Lv.png",
+        "created_at": "2025-02-21T04:45:19.000000Z",
+        "updated_at": "2025-02-21T04:45:19.000000Z",
+        "pivot": {
+          "project_id": 3,
+          "skill_id": 6
+        }
+      },
+      {
+        "id": 10,
+        "name": "Bootstrap",
+        "description": null,
+        "icon": "/skills/r94hixaMWfMsL5TovjqpyCecurgnbifxEseDIJ81.png",
+        "created_at": "2025-02-21T04:49:37.000000Z",
+        "updated_at": "2025-02-21T04:49:37.000000Z",
+        "pivot": {
+          "project_id": 3,
+          "skill_id": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Point of Sale",
+    "slug": "point-of-sale",
+    "description": "A Point of Sale (POS) website built with Laravel and Vue.js to manage products and transactions efficiently",
+    "image": "/projects/ba5XclIekwA7vjTmXw8rIXXguJqtHxC8CWfFg4Ng.png",
+    "git_link": "https://github.com/Yoga-Firmansyah/Point-Of-Sale-Laravel-Vue",
+    "live_link": "#",
+    "created_at": "2025-02-24T15:19:32.000000Z",
+    "updated_at": "2025-02-24T15:19:32.000000Z",
+    "skills": [
+      {
+        "id": 7,
+        "name": "Laravel",
+        "description": null,
+        "icon": "/skills/gvNDLUUenfLPvkT5TxwB4SKm7vQyeKVq7jSUoPYW.svg",
+        "created_at": "2025-02-21T04:47:56.000000Z",
+        "updated_at": "2025-02-21T04:47:56.000000Z",
+        "pivot": {
+          "project_id": 4,
+          "skill_id": 7
+        }
+      },
+      {
+        "id": 8,
+        "name": "Vue",
+        "description": null,
+        "icon": "/skills/ZCHxQWrgsKZuQi7fgKuVMh1BOT9mJrR8nePN0ubg.svg",
+        "created_at": "2025-02-21T04:48:52.000000Z",
+        "updated_at": "2025-02-21T04:48:52.000000Z",
+        "pivot": {
+          "project_id": 4,
+          "skill_id": 8
+        }
+      },
+      {
+        "id": 6,
+        "name": "MySQL",
+        "description": null,
+        "icon": "/skills/v3W2lZREv16ic4NwuranQRhgRrVjszchCT1fo5Lv.png",
+        "created_at": "2025-02-21T04:45:19.000000Z",
+        "updated_at": "2025-02-21T04:45:19.000000Z",
+        "pivot": {
+          "project_id": 4,
+          "skill_id": 6
+        }
+      },
+      {
+        "id": 10,
+        "name": "Bootstrap",
+        "description": null,
+        "icon": "/skills/r94hixaMWfMsL5TovjqpyCecurgnbifxEseDIJ81.png",
+        "created_at": "2025-02-21T04:49:37.000000Z",
+        "updated_at": "2025-02-21T04:49:37.000000Z",
+        "pivot": {
+          "project_id": 4,
+          "skill_id": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "E-Commerce Laravel-Vue",
+    "slug": "e-commerce-laravel-vue",
+    "description": "An E-Commerce website built with Laravel, Vue.js, and Midtrans for the payment gateway, designed to provide a seamless shopping experience for customers and efficient management tools for administrators",
+    "image": "/projects/kbVVlsOcM4u7MahY4Y7HoHNHglctULM7OD222P7e.png",
+    "git_link": "https://github.com/Yoga-Firmansyah/E-Commerce",
+    "live_link": "#",
+    "created_at": "2025-02-24T15:47:41.000000Z",
+    "updated_at": "2025-02-24T15:47:41.000000Z",
+    "skills": [
+      {
+        "id": 7,
+        "name": "Laravel",
+        "description": null,
+        "icon": "/skills/gvNDLUUenfLPvkT5TxwB4SKm7vQyeKVq7jSUoPYW.svg",
+        "created_at": "2025-02-21T04:47:56.000000Z",
+        "updated_at": "2025-02-21T04:47:56.000000Z",
+        "pivot": {
+          "project_id": 5,
+          "skill_id": 7
+        }
+      },
+      {
+        "id": 8,
+        "name": "Vue",
+        "description": null,
+        "icon": "/skills/ZCHxQWrgsKZuQi7fgKuVMh1BOT9mJrR8nePN0ubg.svg",
+        "created_at": "2025-02-21T04:48:52.000000Z",
+        "updated_at": "2025-02-21T04:48:52.000000Z",
+        "pivot": {
+          "project_id": 5,
+          "skill_id": 8
+        }
+      },
+      {
+        "id": 6,
+        "name": "MySQL",
+        "description": null,
+        "icon": "/skills/v3W2lZREv16ic4NwuranQRhgRrVjszchCT1fo5Lv.png",
+        "created_at": "2025-02-21T04:45:19.000000Z",
+        "updated_at": "2025-02-21T04:45:19.000000Z",
+        "pivot": {
+          "project_id": 5,
+          "skill_id": 6
+        }
+      },
+      {
+        "id": 10,
+        "name": "Bootstrap",
+        "description": null,
+        "icon": "/skills/r94hixaMWfMsL5TovjqpyCecurgnbifxEseDIJ81.png",
+        "created_at": "2025-02-21T04:49:37.000000Z",
+        "updated_at": "2025-02-21T04:49:37.000000Z",
+        "pivot": {
+          "project_id": 5,
+          "skill_id": 10
+        }
+      }
+    ]
+  }
+]

@@ -43,7 +43,7 @@
       </div>
       <div class="featured-image">
         <div class="image">
-          <img src="../assets/profil.JPG" alt="avatar" />
+          <img src="../assets/profil.png" alt="avatar" />
         </div>
       </div>
     </div>

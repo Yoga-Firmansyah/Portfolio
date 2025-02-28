@@ -4,7 +4,7 @@
       <div class="text-center top-header">
         <h1 class="text-3xl font-semibold text-gray-800">My Projects</h1>
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 project-box">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 ">
         <div
           class="project-card shadow-md shadow-gray-700"
           v-for="project in projects"
@@ -39,8 +39,9 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, nextTick } from "vue";
 import axios from "axios";
+import ScrollReveal from 'scrollreveal';
 
 const sections = ref([{ id: "projects", name: "Projects" }]);
 
@@ -55,6 +56,7 @@ const projects = ref([]);
 //   }
 // };
 
+// Fetch project data from a local JSON file
 const fetchData = async () => {
   try {
     const response = await fetch("/projectData.json");
@@ -63,6 +65,18 @@ const fetchData = async () => {
     }
     const data = await response.json();
     projects.value = data;
+
+    // Initialize ScrollReveal after the DOM is updated
+    nextTick(() => {
+      ScrollReveal().reveal('.project-card', {
+        origin: 'top',
+        duration: 1000,
+        distance: '50px',
+        easing: 'ease-in-out',
+        interval: 200,
+        reset: true,
+      });
+    });
   } catch (error) {
     console.error("There was a problem with the fetch operation:", error);
   }

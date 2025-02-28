@@ -403,17 +403,19 @@ footer {
     }
     .social_icons{
         margin-top: 2em;
+        margin-bottom: 3em;
     }
     .featured-image{
         order: 1;
         justify-content: center;
         min-height: 220px;
         width: 100%;
-        margin-top: 100px;
+        margin-top: 80px;
+        margin-bottom: 40px;
     }
     .image, .image img{
-        width: 220px;
-        height: 220px;
+        width: 200px;
+        height: 200px;
     }
     .row{
         display: flex;

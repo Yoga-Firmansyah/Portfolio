@@ -64,7 +64,7 @@ export function useWebsiteFeatures(sections) {
             origin: 'top',
             distance: '100px',
             duration: 2000,
-            reset: false,
+            reset: true,
         });
 
         sr.reveal('.featured-text-card', {});
@@ -80,25 +80,27 @@ export function useWebsiteFeatures(sections) {
         // Scroll reveal for left-right animations
         const srLeft = ScrollReveal({
             origin: 'left',
-            distance: '100px',
+            distance: '40px',
             duration: 2000,
-            reset: false,
+            reset: true,
         });
 
-        srLeft.reveal('.about-info', { delay: 100 });
+        srLeft.reveal('.about-info', { delay: 200 });
 
         const srRight = ScrollReveal({
             origin: 'right',
-            distance: '100px',
+            distance: '40px',
             duration: 2000,
-            reset: false,
+            reset: true,
         });
 
-        srRight.reveal('.education-box', { delay: 100 });
+        srRight.reveal('.education-box', { delay: 200 });
     });
 
     // Cleanup event listeners on unmount
     onBeforeUnmount(() => {
+        window.removeEventListener('scroll', headerShadow);
+        window.removeEventListener('scroll', scrollActive);
     });
 
     return {

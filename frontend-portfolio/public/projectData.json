@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Donation Website",
-    "slug": "donation-website",
+    "name": "Donation Web Application ",
+    "slug": "donation-website-application ",
     "description": "This project was created for the final project of the WordPress CMS bootcamp. The project features campaign management and payment gateway integration",
     "image": "/projects/tbIRkKA0TbfhhDdwXOuZMUvgKVxk6weomi68PAki.png",
     "git_link": "https://gitlab.com/firmany41/donation-website",

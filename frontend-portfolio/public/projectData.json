@@ -26,7 +26,7 @@
   },
   {
     "id": 2,
-    "name": "E-Commerce React",
+    "name": "E-commerce React",
     "slug": "e-commerce-react",
     "description": "This project was created for the final project of the ReactJS bootcamp. The project features an e-commerce interface with data CRUD operations integrated with API.",
     "image": "/projects/JPSq8GC5uFvcbDtq9pyfuaMplPIjI1TyjCzYbeKa.png",
@@ -173,9 +173,9 @@
   },
   {
     "id": 5,
-    "name": "E-Commerce Laravel-Vue",
+    "name": "E-commerce Laravel-Vue",
     "slug": "e-commerce-laravel-vue",
-    "description": "An E-Commerce website built with Laravel, Vue.js, and Midtrans for the payment gateway, designed to provide a seamless shopping experience for customers and efficient management tools for administrators",
+    "description": "An E-commerce website built with Laravel, Vue.js, and Midtrans for the payment gateway, designed to provide a seamless shopping experience for customers and efficient management tools for administrators",
     "image": "/projects/kbVVlsOcM4u7MahY4Y7HoHNHglctULM7OD222P7e.png",
     "git_link": "https://github.com/Yoga-Firmansyah/E-Commerce",
     "live_link": "#",

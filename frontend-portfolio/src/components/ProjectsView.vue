@@ -76,7 +76,7 @@ const fetchData = async () => {
         distance: "50px",
         easing: "ease-in-out",
         interval: 200,
-        reset: true,
+        reset: false,
       });
     });
   } catch (error) {

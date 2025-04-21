@@ -64,7 +64,7 @@ export function useWebsiteFeatures(sections) {
             origin: 'top',
             distance: '100px',
             duration: 2000,
-            reset: true,
+            reset: false,
         });
 
         sr.reveal('.featured-text-card', {});
@@ -82,7 +82,7 @@ export function useWebsiteFeatures(sections) {
             origin: 'left',
             distance: '40px',
             duration: 2000,
-            reset: true,
+            reset: false,
         });
 
         srLeft.reveal('.about-info', { delay: 200 });
@@ -91,7 +91,7 @@ export function useWebsiteFeatures(sections) {
             origin: 'right',
             distance: '40px',
             duration: 2000,
-            reset: true,
+            reset: false,
         });
 
         srRight.reveal('.education-box', { delay: 200 });
